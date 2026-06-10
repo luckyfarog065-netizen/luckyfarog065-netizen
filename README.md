@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Fakhrey Farog Ansari 👋
 
-<!--
-**luckyfarog065-netizen/luckyfarog065-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Integral University, Lucknow
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Java, Python, HTML, CSS, and C++
+
+## About Me
+
+I am a Bachelor of Computer Applications (BCA) student with a strong interest in software development and problem-solving.
+
+I enjoy building projects, learning new technologies, and continuously improving my programming skills.
+
+## Skills
+
+* Java
+* Python
+* C++
+* C Programming
+* HTML
+* CSS
+* GitHub
+* Web Development
+
+## Projects
+
+### Personal Portfolio Website
+
+Portfolio: https://luckyfarog065-netizen.github.io/Portfolio/
+
+### Calculator Application
+
+A calculator application developed to strengthen programming logic and problem-solving skills.
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/fakhrey-farog-ansari
+
+Portfolio:
+https://luckyfarog065-netizen.github.io/Portfolio/
+
+GitHub:
+https://github.com/luckyfarog065-netizen
